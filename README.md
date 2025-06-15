@@ -185,24 +185,11 @@ A natural language processing system that generates coherent Telugu text using r
 ## 🎓 Education
 
 - **Master of Science in Information Systems** (Data and ML/AI Specialization)  
-  Northeastern University, Boston | CGPA: 3.947/4.0 | May 2025 (Expected)
+  Northeastern University, Boston | CGPA: 3.96/4.0 | May 2025
 
 - **Bachelor of Technology in Civil Engineering**  
   National Institute of Technology, Andhra Pradesh, India | June 2021
 
-## 💼 Professional Experience
-
-### 📊 Graduate Teaching Assistant | Northeastern University
-**Jan 2025 - Present** | Boston, MA
-- Leading practical sessions on RAG modeling, vector database storage, and multi-agent architectures
-- Mentoring students in building scalable ML pipelines using Docker, FastAPI, and cloud infrastructure
-- Guiding implementation of secure authentication and CI/CD pipelines for production deployments
-
-### ☁️ Software Engineer (Cloud) | Zitisi Solutions LLP
-**Aug 2021 - Jun 2023** | Hyderabad, India
-- Designed and deployed scalable AWS infrastructure leveraging EC2, S3, RDS, and IAM
-- Implemented containerized environments with Docker and Kubernetes for microservice orchestration
-- Automated infrastructure provisioning with Terraform and monitoring with CloudWatch
 
 ## 📈 GitHub Stats
 
